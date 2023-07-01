@@ -1,5 +1,5 @@
 # StandartStakeSwap
-Platform and modules for performing swaps and stakes
+База с интерфейсом, для скриптов из свапов и стейков
 # канал [@SwissScripts](https://t.me/SwissScripts)
 
 ### Windows:
