@@ -1,6 +1,6 @@
 # StandartStakeSwap
 Platform and modules for performing swaps and stakes
-# канал [@SwissScripts](t.me/SwissScripts)
+# канал [@SwissScripts](https://t.me/SwissScripts)
 
 Гиперпараметры 
 1) Gas: газ в баксах, лучше ставить 0.4
