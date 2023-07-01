@@ -2,6 +2,12 @@
 Platform and modules for performing swaps and stakes
 # канал [@SwissScripts](https://t.me/SwissScripts)
 
+### Windows:
+устанавливаем web3 (pip/pip3 install web3), запускаем main.py
+### Linux:
+аналогично
+
+
 Гиперпараметры 
 1) Gas: газ в баксах, лучше ставить 0.4
 2) Time between : время в минутах между тразакциями
