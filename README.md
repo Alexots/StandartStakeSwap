@@ -3,13 +3,14 @@ Platform and modules for performing swaps and stakes
 # канал [@SwissScripts](https://t.me/SwissScripts)
 
 ### Windows:
-устанавливаем web3 (pip/pip3 install web3), запускаем main.py
+устанавливаем web3 (pip/pip3 install web3), запускаем main.py (часто можно двойным щелчком)
+
 ### Linux:
 аналогично
 
 
 Гиперпараметры 
-1) Gas: газ в баксах, лучше ставить 0.4
+1) Gas: газ в баксах, лучше ставить 0.3 - 0.5
 2) Time between : время в минутах между тразакциями
 3) Random time : доля от time between, между которой и нулем будет колебаться дополнительное ожидание
 4) New - задел на будущее, для сканирования кошельков, что б не совершать лишних апрувов. Сейчас жмем, что б была синей.
@@ -46,5 +47,6 @@ Platform and modules for performing swaps and stakes
 1) perform(acc,function_out,volume_in_usd,return_percent,gas=0.5) - для модулей с одолжением
 2) perform(acc,function_out,volume_in_usd,gas=0.5) - без одолжения
 
+# Большая просьба - скидывать ошибки в канал или в личку [@MrTwisterXXXL](https://t.me/MrTwisterXXXL)
 Донат 
 ### 0x8C978623722807c06A215499eb039D4d4bEC7eF9
