@@ -40,3 +40,5 @@ Platform and modules for performing swaps and stakes
 1) perform(acc,function_out,volume_in_usd,return_percent,gas=0.5) - для модулей с одолжением
 2) perform(acc,function_out,volume_in_usd,gas=0.5) - без одолжения
 
+Донат 
+### 0x8C978623722807c06A215499eb039D4d4bEC7eF9
