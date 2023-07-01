@@ -48,5 +48,4 @@
 2) perform(acc,function_out,volume_in_usd,gas=0.5) - без одолжения
 
 # Большая просьба - скидывать ошибки в канал или в личку [@MrTwisterXXXL](https://t.me/MrTwisterXXXL)
-Донат 
-### 0x8C978623722807c06A215499eb039D4d4bEC7eF9
+
